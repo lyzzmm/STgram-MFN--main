@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # STgram-MFN-main
-STgram-MFN-main
-=======
 ## pytorch implementation for "Anomalous Sound Detection Using Spectral-Temporal Information Fusion"
 The paper is available in [link](https://ieeexplore.ieee.org/document/9747868).
 
